@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="40">
+    <author>Giants, s4t4n</author>
+    <version>1.0.0.5</version>
+    <title>
+        <de>MC 18-4 mit weiteren Kameras</de>
+        <en>MC 18-4 with additional cameras</en>
+    </title>
+    <description>
+        <en>		
+            MC 18-4 Kameras
+        </en>
+        <de>		
+            MC 18-4 Cams
+        </de>
+    </description>
+    <iconFilename>manitou-mc184.png</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="MC18.xml"/>
+    </storeItems>
+</modDesc>
